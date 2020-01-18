@@ -8,13 +8,13 @@
     },
     {
         "id": 1,
-        "date": "18/03/2019",
+        "date": "25/02/2019",
         "text": "Held presentation on Recent approaches on Graph Neural Networks at Bucharest Deep Learning Group",
-        "url": "pdfs/GNNs.pptx"
+        "url": "pdfs/GNNs.pdf"
     },
     {
         "id": 1,
-        "date": "18/03/2019",
+        "date": "15/11/2017",
         "text": "Presented Captioning approches at Bucharest Deep Learning Group",
         "url": "pdfs/captioning.pdf"
         

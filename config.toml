@@ -3,15 +3,15 @@ baseurl = "/"
 languageCode = "en-us"
 title = "Iulia Duta - Personal webpage"
 theme = "hugo-initio-master"
-publishDir = "docs"
+publishDir = "iuliaduta.github.io"
 
 [params]
     name = "Iulia Duta"
     description = "Machine Learning Research Department · Bitdefender, Romania"
     email = "iduta@bitdefender.com"
-    avatar = "/images/pp.jpg"
+    avatar = "images/pp4.jpg"
     background = ""
-    favicon = "images/pp.jpg"
+    favicon = "images/pp4.jpg"
     DateForm = "January 2, 2006"
 
     mathjax = true

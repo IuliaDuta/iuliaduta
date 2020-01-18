@@ -27,10 +27,10 @@
     <div class="thumbnails recentworks">
         {{ range $index, $area := .Site.Data.recentworks }}
             <div class="recentworks_item">
-                <div >
+                <div class = "item_column">
                     <img  src="{{ .image }}" class="item_img" alt="Girl in a jacket">
                 </div>
-                <div  class="item_txt">
+                <div  class="item_column">
                     <div style="font-size: 25px; font-weight: bold; padding-bottom: 3px">{{ .title }}</div> 
                     <div style="font-size: 18px;  padding-bottom: 3px; color: brown">{{ .authors }}</div>
                     <div style="font-size: 18px;  padding-bottom: 5px; color:#228B22;">
