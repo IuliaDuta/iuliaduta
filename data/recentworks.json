@@ -22,7 +22,18 @@
         ]
     },
     {
-        "id": 1,
+        "id": 2,
+        "title": "Effective Receptive Field of Graph Neural Networks",
+        "image": "images/ERF1.png",
+        "status": "Under Submission",
+        "authors": "Andrei Nicolicioiu*, Iulia Duta*",
+        "abstract": "We analysed theoretically and empirically the effective receptive field for Graph Convolutional Network and Self-Attention layer.",
+        "items": [
+           
+        ]
+    },
+    {
+        "id": 2,
         "title": "Mining for meaning: from vision to language through multiple networks consensus",
         "image": "images/caption_girl_texting2.gif",
         "status": "BMVC 2018",
